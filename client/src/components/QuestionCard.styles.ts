@@ -4,7 +4,7 @@ export const Wrapper = styled.div`
 	margin-top: 20px;
 	max-width: 450px;
 	padding: 20px;
-	text-align: center
+	text-align: center;
 	border: 2px solid #0085a3;
 	border-radius: 10px;
 	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
